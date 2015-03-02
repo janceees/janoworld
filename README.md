@@ -1,1 +1,3 @@
 # janoworld
+
+som hlupy hlupak
