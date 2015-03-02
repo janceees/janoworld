@@ -1,3 +1,3 @@
 # janoworld
 
-som hlupy hlupak
+som nehlupy a nehlupak
